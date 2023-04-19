@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "643fd01839d168b7c8f7540e"
+  },
+  "email": "kawthar@live.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd394e0580bcedd02344d"
+  },
+  "email": "ada.lovelace@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fd3a0ea87ff4610b3cbfb"
+  },
+  "email": "ada2.lovelace@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fde244c2b94c56412a8b5"
+  },
+  "email": "theoutlander@live.com",
+  "__v": 0
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64352e2f0a7d8476060d6a6f"
+  },
+  "Last_name": "Kefi",
+  "First_name": "Anis",
+  "Email": "kefi@gmail.com",
+  "age": 15
+},{
+  "_id": {
+    "$oid": "64352e2f0a7d8476060d6a70"
+  },
+  "Last_name": "Fatnassi",
+  "First_name": "Sarra",
+  "Email": "sarra.f@gmail.com",
+  "age": 40
+},{
+  "_id": {
+    "$oid": "64355e2a0a7d8476060d6a73"
+  },
+  "Last_name": "Ben Lahmer",
+  "First_name": "Fares",
+  "Email": "fares@gmail.com",
+  "age": 26
+}]
